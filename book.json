@@ -1,0 +1,82 @@
+[
+    {
+        "id_": 1,
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel Garc\u00eda M\u00e1rquez",
+        "year": 1970,
+        "genre": "Magical Realism",
+        "isbn": "978-7-5399-1578-7"
+    },
+    {
+        "id_": 2,
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "year": 2003,
+        "genre": "Novel",
+        "isbn": "978-7-5447-4165-0"
+    },
+    {
+        "id_": 3,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exup\u00e9ry",
+        "year": 1943,
+        "genre": "Fairy Tale",
+        "isbn": "978-7-5399-5509-7"
+    },
+    {
+        "id_": 4,
+        "title": "A Brief History of Time",
+        "author": "Stephen Hawking",
+        "year": 1988,
+        "genre": "Science",
+        "isbn": "978-7-5047-2722-7"
+    },
+    {
+        "id_": 5,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "isbn": "978-7-5063-1418-4"
+    },
+    {
+        "id_": 6,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Novel",
+        "isbn": "978-7-5033-7012-9"
+    },
+    {
+        "id_": 7,
+        "title": "The Truman Show",
+        "author": "Peter Weir",
+        "year": 1998,
+        "genre": "Drama",
+        "isbn": "978-7-5108-2279-0"
+    },
+    {
+        "id_": 8,
+        "title": "Norwegian Wood",
+        "author": "Haruki Murakami",
+        "year": 1987,
+        "genre": "Novel",
+        "isbn": "978-7-5371-0273-9"
+    },
+    {
+        "id_": 9,
+        "title": "The Sherlock Holmes Collection",
+        "author": "Arthur Conan Doyle",
+        "year": 1892,
+        "genre": "Mystery",
+        "isbn": "978-7-5430-8539-5"
+    },
+    {
+        "id_": 10,
+        "title": "1587, A Year of No Significance",
+        "author": "Ray Huang",
+        "year": 1982,
+        "genre": "History",
+        "isbn": "978-7-5088-2995-4"
+    }
+]
